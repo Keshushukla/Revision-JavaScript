@@ -1,4 +1,4 @@
-// String To Number
+                        // String To Number
 
 // let score = "33"
 
@@ -10,7 +10,7 @@
 // console.log(valueInNumber);
 
 
-// String To Number when string cannot be converted into integer fully
+                        // String To Number when string cannot be converted into integer fully
 
 // let score = "33keshu"
 
@@ -22,7 +22,7 @@
 // console.log(valueInNumber);
 
 
-// String To Number when string cannot be converted into integer even partially
+                    // String To Number when string cannot be converted into integer even partially
 
 // let score = "keshu"
 
@@ -33,7 +33,7 @@
 // console.log(typeof valueInNumber);
 // console.log(valueInNumber);
 
-// Null To Number
+                    // Null To Number
 
 // let score = null
 
@@ -45,7 +45,7 @@
 // console.log(valueInNumber);
 
 
-// undefined To Number
+                    // undefined To Number
 
 // let score = undefined
 
@@ -57,7 +57,7 @@
 // console.log(valueInNumber);
 
 
-// Boolean To Number
+                    // Boolean To Number
 
 // let score = true
 
@@ -78,7 +78,7 @@
 // "" => false
 // "hitesh" => true
 
-// Number,String to Boolean
+                    // Number,String to Boolean
 
 // let isLoggedIn ="keshu"
 
@@ -87,7 +87,7 @@
 // console.log(BooleanIsLoggedIn);
 
 
-//Number to String
+                    //Number to String
 
 // let num = 17
 
