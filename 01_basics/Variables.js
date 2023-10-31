@@ -19,3 +19,5 @@ console.log(accountId);
 // 2) Together as a Table 
 console.table([accountId, accountEmail, accountPassword, accountCity]);
 // Variable output without assigning any value to it or Empty Variable output 
+let accountState ;
+console.log(accountState);
