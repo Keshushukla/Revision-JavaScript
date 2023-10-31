@@ -86,3 +86,11 @@
 
 // console.log(BooleanIsLoggedIn);
 
+
+//Number to String
+
+// let num = 17
+
+// let stringValue = String(num)
+// console.log(stringValue);
+// console.log(typeof stringValue);
