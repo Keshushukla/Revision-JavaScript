@@ -33,3 +33,27 @@
 // console.log(typeof valueInNumber);
 // console.log(valueInNumber);
 
+// Null To Number
+
+// let score = null
+
+// console.log(typeof score);
+// console.log(typeof(score));
+
+// let valueInNumber = Number (score)
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
+
+
+// undefined To Number
+
+let score = undefined
+
+console.log(typeof score);
+console.log(typeof(score));
+
+let valueInNumber = Number (score)
+console.log(typeof valueInNumber);
+console.log(valueInNumber);
+
+
