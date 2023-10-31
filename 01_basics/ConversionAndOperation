@@ -47,13 +47,42 @@
 
 // undefined To Number
 
-let score = undefined
+// let score = undefined
 
-console.log(typeof score);
-console.log(typeof(score));
+// console.log(typeof score);
+// console.log(typeof(score));
 
-let valueInNumber = Number (score)
-console.log(typeof valueInNumber);
-console.log(valueInNumber);
+// let valueInNumber = Number (score)
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
 
+
+// Boolean To Number
+
+// let score = true
+
+// console.log(typeof score);
+// console.log(typeof(score));
+
+// let valueInNumber = Number (score)
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
+
+// "33" => 33
+// "33abc" => NaN
+//  true => 1; false => 0
+
+
+
+// 1 => true; 0 => false
+// "" => false
+// "hitesh" => true
+
+// Number,String to Boolean
+
+// let isLoggedIn ="keshu"
+
+// let BooleanIsLoggedIn = Boolean(isLoggedIn)
+
+// console.log(BooleanIsLoggedIn);
 
